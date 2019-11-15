@@ -1,0 +1,144 @@
+"Ticker","Indicator.Name","Rank-2008","Rank-2009","Rank-2010","Rank-2011","Rank-2012","Rank-2013","Rank-2014","Rank-2015","Rank-2016","Rank-2017","Rank-2018"
+"ALSK","Return on Assets",NA,NA,2,4,8,10,3,9,6,4,5
+"CBB","Return on Assets",NA,4,5,5,4,1,10,13,13,6,NA
+"CNSL","Return on Assets",NA,NA,7,9,3,6,6,6,7,7,2
+"CTL","Return on Assets",NA,NA,8,7,6,2,8,8,8,8,1
+"EGHT","Return on Assets",NA,NA,11,12,11,5,5,3,2.5,1,NA
+"FTR","Return on Assets",NA,2,4,6,5,4,7,5,4,2,NA
+"HCHC","Return on Assets",NA,NA,3,2,12,11,2,4,1,3,6
+"IDT","Return on Assets",NA,NA,NA,10,10,7,11,12,11,9,4
+"S","Return on Assets",1,1,1,3,2,NA,NA,2,2.5,12,NA
+"T","Return on Assets",2,5,10,8,7,8,9,10,10,11,7
+"TMUS","Return on Assets",NA,3,6,1,1,3,4,7,9,10,8
+"VZ","Return on Assets",3,6,9,11,9,9,12,11,12,13,9
+"ZAYO","Return on Assets",NA,NA,NA,NA,NA,NA,1,1,5,5,3
+"ALSK","Gross Margin",NA,NA,7,9,8,5,3,5,6,6,5
+"CBB","Gross Margin",NA,3,4,4,4,3,4,3,3,3,NA
+"CNSL","Gross Margin",NA,NA,8,10,10,9,10,9,9,9,6
+"CTL","Gross Margin",NA,NA,9,8,6,6,8,8,7,5,4
+"EGHT","Gross Margin",NA,NA,10,11,12,11,13,13,13,13,NA
+"FTR","Gross Margin",NA,6,11,12,11,10,11,11,11,11,NA
+"HCHC","Gross Margin",NA,NA,3,1,1,1,1,1,2,2,2
+"IDT","Gross Margin",NA,NA,NA,2,2,2,2,2,1,1,1
+"S","Gross Margin",1,2,2,3,3,NA,5,4,5,10,NA
+"T","Gross Margin",2,5,6,5,5,7,7,7,4,4,3
+"TMUS","Gross Margin",NA,1,1,6,7,4,6,6,8,7,8
+"VZ","Gross Margin",3,4,5,7,9,8,9,10,10,8,7
+"ZAYO","Gross Margin",NA,NA,NA,NA,NA,NA,12,12,12,12,9
+"ALSK","Operating Margin",NA,NA,5,10,10,5,2,2,5,6,4
+"CBB","Operating Margin",NA,5,9,12,11,8,11,8,7,5,NA
+"CNSL","Operating Margin",NA,NA,8,9,9,7,12,7,8,4,3
+"CTL","Operating Margin",NA,NA,11,8,8,6,9,10,9,8,6
+"EGHT","Operating Margin",NA,NA,3,5,5,3,4,1,1,1,NA
+"FTR","Operating Margin",NA,6,10,11,12,9,13,12,12,11,NA
+"HCHC","Operating Margin",NA,NA,1,1,1,1,1,3,2,2,1
+"IDT","Operating Margin",NA,NA,NA,2,3,2,5,4,3,3,2
+"S","Operating Margin",1,1,2,3,2,NA,3,5,4,7,NA
+"T","Operating Margin",2,4,6,4,6,10,8,11,11,10,7
+"TMUS","Operating Margin",NA,3,7,6,4,4,6,6,6,9,5
+"VZ","Operating Margin",3,2,4,7,7,11,10,13,13,13,9
+"ZAYO","Operating Margin",NA,NA,NA,NA,NA,NA,7,9,10,12,8
+"ALSK","Net Profit Margin",NA,NA,2,4,8,10,4,10,6,4,4
+"CBB","Net Profit Margin",NA,4,4,5,3,1,12,13,12,6,NA
+"CNSL","Net Profit Margin",NA,NA,7,10,4,7,8,6,8,8,2
+"CTL","Net Profit Margin",NA,NA,10,9,7,2,10,8,9,9,1
+"EGHT","Net Profit Margin",NA,NA,8,12,12,5,6,5,5,1,NA
+"FTR","Net Profit Margin",NA,3,5,7,6,6,9,3,3,2,NA
+"HCHC","Net Profit Margin",NA,NA,3,3,11,11,3,4,1,3,7
+"IDT","Net Profit Margin",NA,NA,NA,6,5,4,7,9,7,5,3
+"S","Net Profit Margin",1,1,1,2,2,NA,2,2,4,12,NA
+"T","Net Profit Margin",2,5,11,8,9,8,11,11,11,11,8
+"TMUS","Net Profit Margin",NA,2,6,1,1,3,5,7,10,10,6
+"VZ","Net Profit Margin",3,6,9,11,10,9,13,12,13,13,9
+"ZAYO","Net Profit Margin",NA,NA,NA,NA,NA,NA,1,1,2,7,5
+"ALSK","Net Profit-growth",NA,NA,NA,10,12,10,2,13,3,2,8
+"CBB","Net Profit-growth",NA,NA,1,4,1,1,10,12,4,4,NA
+"CNSL","Net Profit-growth",NA,NA,NA,6,3,9,4,4,13,12,2
+"CTL","Net Profit-growth",NA,NA,NA,5,8,2,11,6,6,7,1
+"EGHT","Net Profit-growth",NA,NA,NA,11,2,3,5,1,9,1,NA
+"FTR","Net Profit-growth",NA,NA,5,8,7,5,7,2,2,3,NA
+"HCHC","Net Profit-growth",NA,NA,NA,2,11,8,1,3,1,6,9
+"IDT","Net Profit-growth",NA,NA,NA,NA,9,4,9,11,5,5,3
+"S","Net Profit-growth",NA,1,3,9,6,NA,8,7,10,13,NA
+"T","Net Profit-growth",NA,3,6,3,10,7,3,9,8,8,6
+"TMUS","Net Profit-growth",NA,NA,4,1,5,6,12,10,12,11,5
+"VZ","Net Profit-growth",NA,2,2,7,4,11,6,8,7,9,4
+"ZAYO","Net Profit-growth",NA,NA,NA,NA,NA,NA,NA,5,11,10,7
+"ALSK","Return on Assets-growth",NA,NA,NA,10,12,10,1,13,2,3,8
+"CBB","Return on Assets-growth",NA,NA,1,5,3,1,9,12,4,4,NA
+"CNSL","Return on Assets-growth",NA,NA,NA,6,1,9,4,3,13,10,2
+"CTL","Return on Assets-growth",NA,NA,NA,3,7,2,10,4,6,6,1
+"EGHT","Return on Assets-growth",NA,NA,NA,11,2,3,6,1,9,1,NA
+"FTR","Return on Assets-growth",NA,NA,3,8,5,5,7,2,3,2,NA
+"HCHC","Return on Assets-growth",NA,NA,NA,4,11,11,2,5,1,7,9
+"IDT","Return on Assets-growth",NA,NA,NA,NA,10,4,8,11,5,5,6
+"S","Return on Assets-growth",NA,1,2,9,4,NA,NA,9,10,13,NA
+"T","Return on Assets-growth",NA,3,6,2,9,8,3,8,8,8,4
+"TMUS","Return on Assets-growth",NA,NA,5,1,8,7,11,10,12,12,5
+"VZ","Return on Assets-growth",NA,2,4,7,6,6,5,7,7,9,3
+"ZAYO","Return on Assets-growth",NA,NA,NA,NA,NA,NA,NA,6,11,11,7
+"ALSK","Total Assets-growth",NA,NA,NA,2,6,8,4,1,1,3,5
+"CBB","Total Assets-growth",NA,NA,6,6,9,2,2,2,10,11,NA
+"CNSL","Total Assets-growth",NA,NA,NA,4,11,6,10,3,3,13,3
+"CTL","Total Assets-growth",NA,NA,3,10,3,4,3,4,4,12,2
+"EGHT","Total Assets-growth",NA,NA,NA,11,10,11,5,7,9,1,NA
+"FTR","Total Assets-growth",NA,NA,7,3,7,3,8,11,11,2,NA
+"HCHC","Total Assets-growth",NA,NA,NA,8,1,1,11,13,7,9,9
+"IDT","Total Assets-growth",NA,NA,NA,NA,2,5,7,5,2,8,1
+"S","Total Assets-growth",NA,1,1,1,8,NA,NA,12,12,4,NA
+"T","Total Assets-growth",NA,2,4,5,5,7,6,10,6,7,8
+"TMUS","Total Assets-growth",NA,NA,5,9,12,10,9,8,8,6,4
+"VZ","Total Assets-growth",NA,3,2,7,4,9,1,6,5,5,6
+"ZAYO","Total Assets-growth",NA,NA,NA,NA,NA,NA,NA,9,13,10,7
+"ALSK","Revenues-growth",NA,NA,NA,3,8,3,1,1,4,4,1
+"CBB","Revenues-growth",NA,NA,4,6,5,1,9,5,6,11,NA
+"CNSL","Revenues-growth",NA,NA,NA,1,12,11,8,11,3,13,8
+"CTL","Revenues-growth",NA,NA,NA,10,10,5,3,4,5,7,9
+"EGHT","Revenues-growth",NA,NA,NA,7,11,10,11,12,10,1,NA
+"FTR","Revenues-growth",NA,NA,6,8,2,4,4,9,13,8,NA
+"HCHC","Revenues-growth",NA,NA,NA,9,1,2,12,13,12,9,7
+"IDT","Revenues-growth",NA,NA,NA,NA,9,8,5,3,1,6,2
+"S","Revenues-growth",NA,1,2,4,7,NA,2,2,7,2,NA
+"T","Revenues-growth",NA,2,3,2,4,6,6,8,8,3,4
+"TMUS","Revenues-growth",NA,NA,5,11,3,9,10,7,9,10,5
+"VZ","Revenues-growth",NA,3,1,5,6,7,7,6,2,5,3
+"ZAYO","Revenues-growth",NA,NA,NA,NA,NA,NA,NA,10,11,12,6
+"ALSK","Gross Margin-growth",NA,NA,NA,6,5,3,1,13,12,7,4
+"CBB","Gross Margin-growth",NA,NA,3,5,6,4,3,3,8,2,NA
+"CNSL","Gross Margin-growth",NA,NA,NA,10,4,6,8,2,5,12,1
+"CTL","Gross Margin-growth",NA,NA,NA,2,7,7,5,9,4,3,5
+"EGHT","Gross Margin-growth",NA,NA,NA,9,9,8,9,10,10,10,NA
+"FTR","Gross Margin-growth",NA,NA,6,8,1,5,7,5,1,8,NA
+"HCHC","Gross Margin-growth",NA,NA,NA,1,12,1,12,1,13,9,6
+"IDT","Gross Margin-growth",NA,NA,NA,NA,2,9,10,4,7,1,8
+"S","Gross Margin-growth",NA,1,1,3,3,NA,11,12,11,13,NA
+"T","Gross Margin-growth",NA,3,5,4,8,11,2,7,3,5,9
+"TMUS","Gross Margin-growth",NA,NA,4,11,10,2,4,11,9,11,7
+"VZ","Gross Margin-growth",NA,2,2,7,11,10,6,6,6,6,3
+"ZAYO","Gross Margin-growth",NA,NA,NA,NA,NA,NA,NA,8,2,4,2
+"ALSK","Current Ratio",NA,NA,5,3,7,6,3,10,11,9,9
+"CBB","Current Ratio",NA,4,4,4,5,5,1,5,8,12,NA
+"CNSL","Current Ratio",NA,NA,9,10,2,2,4,6,5,4,2
+"CTL","Current Ratio",NA,1,6,2,4,4,2,2,6,5,1
+"EGHT","Current Ratio",NA,NA,11,11,12,11,12,12,13,13,NA
+"FTR","Current Ratio",NA,6,3,6,9,7,7,13,1,1,NA
+"HCHC","Current Ratio",NA,NA,8,9,11,9,11,8,9,10,8
+"IDT","Current Ratio",NA,NA,NA,7,6,3,6,7,7,8,5
+"S","Current Ratio",3,5,7,8,10,NA,NA,1,10,11,NA
+"T","Current Ratio",1,2,1,1,1,1,5,4,2,7,3
+"TMUS","Current Ratio",NA,7,10,12,8,8,10,11,12,2,4
+"VZ","Current Ratio",2,3,2,5,3,10,8,3,4,6,6
+"ZAYO","Current Ratio",NA,NA,NA,NA,NA,NA,9,9,3,3,7
+"ALSK","Debt to Assets Ratio",NA,NA,2,1,2,3,4,9,9,8,6
+"CBB","Debt to Assets Ratio",NA,1,1,2,1,1,1,1,1,1,NA
+"CNSL","Debt to Assets Ratio",NA,NA,3,3,3,2,3,2,2,4,1
+"CTL","Debt to Assets Ratio",NA,5,8,8,8,5,8,7,8,5,3
+"EGHT","Debt to Assets Ratio",NA,NA,11,12,12,10.5,12,13,12.5,12.5,NA
+"FTR","Debt to Assets Ratio",NA,2,6,5,4,4,5,4,3,2,NA
+"HCHC","Debt to Assets Ratio",NA,NA,5,6,6,10.5,7,11,11,11,8
+"IDT","Debt to Assets Ratio",NA,NA,NA,11,11,9,11,12,12.5,12.5,9
+"S","Debt to Assets Ratio",1,4,7,7,5,NA,NA,6,5,6,NA
+"T","Debt to Assets Ratio",2,7,9,9,9,8,10,10,10,10,7
+"TMUS","Debt to Assets Ratio",NA,3,4,4,7,6,9,8,7,9,5
+"VZ","Debt to Assets Ratio",3,6,10,10,10,7,6,5,6,7,4
+"ZAYO","Debt to Assets Ratio",NA,NA,NA,NA,NA,NA,2,3,4,3,2
