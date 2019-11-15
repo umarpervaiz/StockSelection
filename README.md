@@ -1,7 +1,7 @@
 # StockSelection
 
 We used https://simfin.com/ for the data on fundamentals for the companies in telecommunication industry,
-## Companies in our Sample
+##### Companies in our Sample
 ALSK (Alaska Communications)
 CBB (Cincinnati Bell Inc.)
 CNSL (Consolidated Communications Holdings, Inc.)
@@ -18,7 +18,7 @@ ZAYO (Zayo Group Holdings)
 
 ### Based on the paper "Combined soft computing model for value stock selection based on fundamental analysis" we choose the ratios
 
-## Ratios included to ranking stocks are (11 in total)
+##### Ratios included for ranking stocks (11 in total)
 Return on Assets
 Gross Margin 
 Operating Margin
