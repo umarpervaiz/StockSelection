@@ -60,3 +60,10 @@ For Instance, company with the highest current ratio (higher the better) has bee
 
 Eventually, all the scores (based on ranks) for different ratios have been aggregated and company with the highest score in each year has been selected. 
 We eventually used this selection for choosing our Anchor Firms in executing pair trading strategy.
+
+The process then implemented for all the industries in SIMFIN database, in our sample the there were 55 different industries
+### (2008 - 2018) Selected Stocks from each industry realised 11.029245 % return per annum in the subsequent year of prediction 
+### Our selected stocks for each industry had positive return (average of prediction-subsequent year return over period (2008-2018)) for 44 (80% of the time) out of our sample of 55 Industries
+
+Average Sample Period return for each industry can be found in Mean of Each Industry_Prediction.csv file
+
