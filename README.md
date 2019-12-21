@@ -1,6 +1,6 @@
 # StockSelection
 
-### (2008 - 2018) Selected Stocks from each industry realized 11.029245 % return per annum in the year subsequent to their prediction, this return outpassed S&P500 by 2.2829 % each year, and the Industry Average by 5.6494% 
+### (2008 - 2018) Selected Stocks from each industry realized 11.029245 % return per annum in the year subsequent to their prediction, this return outpassed S&P500 by 2.2829 %, and the Industry Average by 5.6494% 
 
 ### Our selected stocks for each industry had positive return (average of prediction-subsequent year return over period (2008-2018)) for 44 (80% of the time) out of our sample of 55 Industries
 
